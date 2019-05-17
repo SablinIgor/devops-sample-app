@@ -13,8 +13,8 @@ let res = {
     }
 };
 
-describe('Greetings Route', function() {
-    describe('Weather() function', function() {
+describe('Weather Route', function() {
+    describe('Forecast() function', function() {
         it('Should error out if no city provided ', function() {
             forecast(req, res);
             expect(res.sendCalledWith).to.contain('error');
