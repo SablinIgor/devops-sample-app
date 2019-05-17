@@ -5,3 +5,5 @@ https://codeburst.io/build-a-weather-website-in-30-minutes-with-node-js-express-
 https://medium.com/@gustavo.guss/jenkins-starting-with-pipeline-doing-a-node-js-test-72c6057b67d4
 
 https://medium.com/@gustavo.guss/jenkins-building-docker-image-and-sending-to-registry-64b84ea45ee9
+
+https://medium.com/@jodylecompte/express-routes-a-tdd-approach-1e12a0799352
